@@ -15,6 +15,13 @@ A single-header C library that gives you short, Python-style keywords for input,
 </div>
 
 ---
+## Project Overview
+
+<p align="center">
+  <img src="image/file_00000000203882108995607826d6c841.png"
+       alt="Project Image"
+       width="800">
+</p>
 
 ## Table of Contents
 
