@@ -456,7 +456,7 @@ int main(void)
 
 ## Documentation Book
 
-A full colorful, book-style reference with an explanation, an example, and the exact source code for every keyword is available in [`rplib_book.pdf`](docs/rplib_book.pdf).
+A full colorful, book-style reference with an explanation, an example, and the exact source code for every keyword is available in [`rplib_book.pdf`](rplib_book.pdf).
 
 ## Project Structure
 
